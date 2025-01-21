@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Matin Khani
 
-# 💫 About Me:
 🔭 I’m currently working on optigarment app in Iran Jack<br>🤝 I’m looking for help with anything i can do<br>💬 Ask me about Frontend Development Challenges<br>📫 How to reach me ghkhanimatin@gmail.com
 
 
